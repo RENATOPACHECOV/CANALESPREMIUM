@@ -52,7 +52,13 @@ http://latinoamericatv.vip:3334/paco/paco123/88
 http://latinoamericatv.vip:3334/paco/paco123/91
 #EXTINF:-1,CUL*| DISCOVERY  H&H  HD
 http://latinoamericatv.vip:3334/paco/paco123/108
-#EXTINF:-IPTV FREE LIST: LAT:,TNT FHD   | ESP
-http://latinoamericatv.vip:3334/Kaka/Kaka/647
-#EXTINF:-IPTV FREE LIST: LAT:,TNT HD   | ESP
-http://latinoamericatv.vip:3334/Kaka/Kaka/648
+#EXTINF:-1,LAT: TNT
+http://vmrs.ddns.net:80/trial/trial/436491
+#EXTINF:-1,LAT: TNT..
+http://vmrs.ddns.net:80/trial/trial/436492
+#EXTINF:-1,LAT: TNT...
+http://vmrs.ddns.net:80/trial/trial/436493
+#EXTINF:-1,LAT: TNT....
+http://vmrs.ddns.net:80/trial/trial/436494
+#EXTINF:-1,LAT: TNT.....
+http://vmrs.ddns.net:80/trial/trial/436495
