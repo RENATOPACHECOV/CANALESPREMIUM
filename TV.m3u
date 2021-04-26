@@ -40,8 +40,6 @@ http://45.71.202.210:50000/play/a02d/index.m3u8
 http://latinoamericatv.vip:3334/paco/paco123/79
 #EXTINF:-1,FOX SPORTS 3
 http://45.71.202.210:50000/play/a01d/index.m3u8
-#EXTINF:-1   group-title="lista", ESPN
-http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1,ESPN HD
 http://latinoamericatv.vip:3334/paco/paco123/74
 #EXTINF:-1,ESPN 2  FHD
@@ -50,7 +48,7 @@ http://latinoamericatv.vip:3334/paco/paco123/72
 http://latinoamericatv.vip:3334/paco/paco123/66
 #EXTINF:-1,MOVISTAR LA LIGA FHD
 http://latinoamericatv.vip:3334/paco/paco123/171
-#EXTINF:-1,CO*| WIN SPORTS +
+#EXTINF:-1,WIN SPORTS +
 http://latinoamericatv.vip:3334/paco/paco123/199
 #EXTINF:-1,National GeographiC
 http://latinoamericatv.vip:3334/paco/paco123/88
@@ -60,8 +58,6 @@ http://latinoamericatv.vip:3334/paco/paco123/91
 http://latinoamericatv.vip:3334/paco/paco123/108
 #EXTINF:-1,CNN en Español
 http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
-#EXTINF:-1,MEGA
-http://xtra.xcs521.cz:8080/00:1A:79:17:0C:AA/ziajdjjfdifjd64646/38457
 #EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" tvg-url="" group-title="",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT en Español (720p)
