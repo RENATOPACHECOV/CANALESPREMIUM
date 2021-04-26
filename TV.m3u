@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,MX : TNT SD
+http://fresat.live:8080/alvaro/alvaro/304921
 #EXTINF:-1,A&E FHD
 http://latinoamericatv.vip:3334/paco/paco123/4
 #EXTINF:-1,CINEMAX  FHD
@@ -52,13 +54,3 @@ http://latinoamericatv.vip:3334/paco/paco123/88
 http://latinoamericatv.vip:3334/paco/paco123/91
 #EXTINF:-1,CUL*| DISCOVERY  H&H  HD
 http://latinoamericatv.vip:3334/paco/paco123/108
-#EXTINF:-1,LAT: TNT
-http://vmrs.ddns.net:80/trial/trial/436491
-#EXTINF:-1,LAT: TNT..
-http://vmrs.ddns.net:80/trial/trial/436492
-#EXTINF:-1,LAT: TNT...
-http://vmrs.ddns.net:80/trial/trial/436493
-#EXTINF:-1,LAT: TNT....
-http://vmrs.ddns.net:80/trial/trial/436494
-#EXTINF:-1,LAT: TNT.....
-http://vmrs.ddns.net:80/trial/trial/436495
