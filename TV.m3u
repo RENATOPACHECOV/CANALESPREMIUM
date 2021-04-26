@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1,A&E FHD
+http://latinoamericatv.vip:3334/paco/paco123/4
+#EXTINF:-1,CINEMAX  FHD
+http://latinoamericatv.vip:3334/paco/paco123/7
+#EXTINF:-1,STAR CLASSICS HD
+http://latinoamericatv.vip:3334/paco/paco123/14
+#EXTINF:-1,STAR MOVIES  HD
+http://latinoamericatv.vip:3334/paco/paco123/17
+#EXTINF:-1,STAR FAMILY  HD
+http://latinoamericatv.vip:3334/paco/paco123/20
+#EXTINF:-1,STAR COMEDY  FHD
+http://latinoamericatv.vip:3334/paco/paco123/22
+#EXTINF:-1,STAR SERIES  FHD
+http://latinoamericatv.vip:3334/paco/paco123/26
+#EXTINF:-1,STAR CHANNEL  HD
+http://latinoamericatv.vip:3334/paco/paco123/30
+#EXTINF:-1,STAR CINEMA  SD
+http://latinoamericatv.vip:3334/paco/paco123/34
+#EXTINF:-1,STAR LIFE HD
+http://latinoamericatv.vip:3334/paco/paco123/40
+#EXTINF:-1,HBO  FHD
+http://latinoamericatv.vip:3334/paco/paco123/54
+#EXTINF:-1,HBO FAMILY  FHD
+http://latinoamericatv.vip:3334/paco/paco123/51
+#EXTINF:-1,HBO PLUS  HD
+http://latinoamericatv.vip:3334/paco/paco123/49
+#EXTINF:-1,HBO SIGNATURE  SD
+http://latinoamericatv.vip:3334/paco/paco123/47
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT
+http://45.71.202.210:50000/play/a02d/index.m3u8
+#EXTINF:-1,FOX SPORTS 2  SD
+http://latinoamericatv.vip:3334/paco/paco123/79
+#EXTINF:-1,FOX SPORTS 3  SD
+http://latinoamericatv.vip:3334/paco/paco123/76
+#EXTINF:-1,ESPN 1  HD
+http://latinoamericatv.vip:3334/paco/paco123/74
+#EXTINF:-1,ESPN 2  FHD
+http://latinoamericatv.vip:3334/paco/paco123/72
+#EXTINF:-1,ESPN 3  SD
+http://latinoamericatv.vip:3334/paco/paco123/66
+#EXTINF:-1,National GeographiC
+http://latinoamericatv.vip:3334/paco/paco123/88
