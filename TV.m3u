@@ -54,7 +54,15 @@ http://latinoamericatv.vip:3334/paco/paco123/171
 http://latinoamericatv.vip:3334/paco/paco123/199
 #EXTINF:-1,National GeographiC
 http://latinoamericatv.vip:3334/paco/paco123/88
-#EXTINF:-1,CUL* | History SD..
+#EXTINF:-1,History SD
 http://latinoamericatv.vip:3334/paco/paco123/91
-#EXTINF:-1,CUL*| DISCOVERY  H&H  HD
+#EXTINF:-1,DISCOVERY  H&H  HD
 http://latinoamericatv.vip:3334/paco/paco123/108
+#EXTINF:-1,CNN en Español
+http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
+#EXTINF:-1,MEGA
+http://xtra.xcs521.cz:8080/00:1A:79:17:0C:AA/ziajdjjfdifjd64646/38457
+#EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" tvg-url="" group-title="",DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT en Español (720p)
+https://rt-esp.secure.footprint.net/1102.m3u8
