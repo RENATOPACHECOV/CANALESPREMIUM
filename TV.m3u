@@ -28,13 +28,15 @@ http://latinoamericatv.vip:3334/paco/paco123/51
 http://latinoamericatv.vip:3334/paco/paco123/49
 #EXTINF:-1,HBO SIGNATURE  SD
 http://latinoamericatv.vip:3334/paco/paco123/47
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT
+#EXTINF:-1, FOX SPORT
 http://45.71.202.210:50000/play/a02d/index.m3u8
 #EXTINF:-1,FOX SPORTS 2  SD
 http://latinoamericatv.vip:3334/paco/paco123/79
-#EXTINF:-1,FOX SPORTS 3  SD
-http://latinoamericatv.vip:3334/paco/paco123/76
-#EXTINF:-1,ESPN 1  HD
+#EXTINF:-1,FOX SPORTS 3
+http://45.71.202.210:50000/play/a01d/index.m3u8
+#EXTINF:-1,ESPN
+http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:-1,ESPN HD
 http://latinoamericatv.vip:3334/paco/paco123/74
 #EXTINF:-1,ESPN 2  FHD
 http://latinoamericatv.vip:3334/paco/paco123/72
