@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,ES: TNT
+http://vmrs.ddns.net:80/trial/trial/438380
 #EXTINF:-1,MX : TNT HD
 http://fresat.live:8080/alvaro/alvaro/305029
 #EXTINF:-1,MX : TNT SD
