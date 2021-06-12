@@ -1,64 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,ES: TNT
-http://vmrs.ddns.net:80/trial/trial/438380
-#EXTINF:-1,MX : TNT HD
-http://fresat.live:8080/alvaro/alvaro/305029
-#EXTINF:-1,MX : TNT SD
-http://fresat.live:8080/alvaro/alvaro/304921
-#EXTINF:-1,A&E FHD
-http://latinoamericatv.vip:3334/paco/paco123/4
-#EXTINF:-1,CINEMAX  FHD
-http://latinoamericatv.vip:3334/paco/paco123/7
-#EXTINF:-1,STAR CLASSICS HD
-http://latinoamericatv.vip:3334/paco/paco123/14
-#EXTINF:-1,STAR MOVIES  HD
-http://latinoamericatv.vip:3334/paco/paco123/17
-#EXTINF:-1,STAR FAMILY  HD
-http://latinoamericatv.vip:3334/paco/paco123/20
-#EXTINF:-1,STAR COMEDY  FHD
-http://latinoamericatv.vip:3334/paco/paco123/22
-#EXTINF:-1,STAR SERIES  FHD
-http://latinoamericatv.vip:3334/paco/paco123/26
-#EXTINF:-1,STAR CHANNEL  HD
-http://latinoamericatv.vip:3334/paco/paco123/30
-#EXTINF:-1,STAR CINEMA  SD
-http://latinoamericatv.vip:3334/paco/paco123/34
-#EXTINF:-1,STAR LIFE HD
-http://latinoamericatv.vip:3334/paco/paco123/40
-#EXTINF:-1,HBO  FHD
-http://latinoamericatv.vip:3334/paco/paco123/54
-#EXTINF:-1,HBO FAMILY  FHD
-http://latinoamericatv.vip:3334/paco/paco123/51
-#EXTINF:-1,HBO PLUS  HD
-http://latinoamericatv.vip:3334/paco/paco123/49
-#EXTINF:-1,HBO SIGNATURE  SD
-http://latinoamericatv.vip:3334/paco/paco123/47
-#EXTINF:-1, FOX SPORT
-http://45.71.202.210:50000/play/a02d/index.m3u8
-#EXTINF:-1,FOX SPORTS 2  SD
-http://latinoamericatv.vip:3334/paco/paco123/79
-#EXTINF:-1,FOX SPORTS 3
-http://45.71.202.210:50000/play/a01d/index.m3u8
-#EXTINF:-1,ESPN HD
-http://latinoamericatv.vip:3334/paco/paco123/74
-#EXTINF:-1,ESPN 2  FHD
-http://latinoamericatv.vip:3334/paco/paco123/72
-#EXTINF:-1,ESPN 3  SD
-http://latinoamericatv.vip:3334/paco/paco123/66
-#EXTINF:-1,MOVISTAR LA LIGA FHD
-http://latinoamericatv.vip:3334/paco/paco123/171
-#EXTINF:-1,WIN SPORTS +
-http://latinoamericatv.vip:3334/paco/paco123/199
-#EXTINF:-1,National GeographiC
-http://latinoamericatv.vip:3334/paco/paco123/88
-#EXTINF:-1,History SD
-http://latinoamericatv.vip:3334/paco/paco123/91
-#EXTINF:-1,DISCOVERY  H&H  HD
-http://latinoamericatv.vip:3334/paco/paco123/108
-#EXTINF:-1,CNN en Español
-http://cloudcdn.tk:8080/ZeAgTKZ8643/52OkpY968/22977
-#EXTINF:-1 tvg-id="DWLatinoAmerica.de" tvg-name="DW Latino America" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N8ueokL.gif" tvg-url="" group-title="",DW Latino America
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT en Español (720p)
-https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1,ESP | TELECINCO HD
+http://nomorecable.xyz:80/lava123/lava123/121799
+#EXTINF:-1,ESP | CUATRO HD
+http://nomorecable.xyz:80/lava123/lava123/121797
+#EXTINF:-1,ESP | BE MAD
+http://nomorecable.xyz:80/lava123/lava123/121911
